@@ -1,4 +1,4 @@
-# Digital Clock - Karol Budzyński
+# Digital Clock
 
 Project created in HTML, CSS, JavaScript
 
