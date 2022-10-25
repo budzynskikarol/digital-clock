@@ -1,7 +1,5 @@
-# ZSBD - Karol Budzyński
-## ĆWICZENIA + PROJEKT
+# Digital Clock - Karol Budzyński
 
-Diagram bazy danych w pliku:
-Schemat_Projekt.png
+Project created in HTML, CSS, JavaScript
 
-![Diagram](https://user-images.githubusercontent.com/26063095/169643008-af558844-62c1-4da3-a58d-dfcf68e1eb5d.PNG)
+![Preview](https://user-images.githubusercontent.com/26063095/169643008-af558844-62c1-4da3-a58d-dfcf68e1eb5d.PNG)
